@@ -1,0 +1,13 @@
+import streamlit as st
+
+st.title("Karenina")
+
+st.header("About Me")
+
+st.text("1. I love spicy food.")
+st.text("2. I am of average height.")
+st.text("3. I prefer cats over dogs.")
+
+st.success("Welcome to my first Streamlit app!")
+
+
